@@ -1,1 +1,1 @@
-# -ngilizce-renme-Uygulamas-
+# -Ingilizce-Ogrenme-Uygulamasi-
