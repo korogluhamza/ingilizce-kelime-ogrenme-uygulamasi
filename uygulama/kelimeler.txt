@@ -1,0 +1,262 @@
+able	yapabilen
+about	hakkında
+above	yukarıdaki
+accessible to	erişilebilir
+according to	e göre
+achievment	başarı
+across	karşısında
+admit	kabul etmek
+adult	yetişkin
+affect	etkileme, etki etmek
+after	dikten sonra
+afternoon	öğleden sonra
+afterwards	ondan sonra
+again	tekrar, yine
+against	aleyhinde, -e karşı
+age	yaş
+agent	ajan
+ago	önce
+agree	anlaşmak, katılmak
+ahead	ilerde
+air	hava
+all	her şey
+all right	peki
+almost	neredeyse
+alone	tek başına
+along	süresince
+already	zaten, çoktan
+also	üstelik
+although	e rağmen, olduğu halde, gerçi
+altogether	büsbütün
+always	her zaman, daima
+among	arasında
+and	ve, ile
+any	hiç
+anybody	hiç kimse, herhangi biri
+anyone	hiç kimse, herhangi biri
+anything	hiçbir şey, herhangi bir şey
+anyway	her halükârda
+anywhere	herhangi bir yere
+appear	görünmek, gözükmek
+apple	elma
+apply	başvurmak
+author	yazar
+authority	yetki, otorite
+avoid	önlemek, kaçınmak
+away	uzakta
+baby	bebek
+back	geri
+bad	kötü
+bag	sırt çantası
+ball	top
+bank	banka
+bar	bar, baro
+base	temel, baz
+be	olmak, var olmak
+beat	dövmek, yenmek
+beautiful	güzel, hoş
+because	çünkü, diği için
+become	haline gelmek
+bed	yatak
+before	önce
+begin	başlamak, başlatmak
+behavior	davranış, tutum, hareket
+behind	arkada
+believe	inanmak, inancı olmak
+below	aşağı
+benefit	yarar, fayda
+beside	başka, yanında
+besides	ayrıca
+best	en iyi
+better	daha iyisi
+between	arasında
+beyond	ötesinde
+big	büyük
+bill	fatura
+billion	milyar
+black	siyah
+blood	kan
+blue	mavi
+board	yazı tahtası
+body	vücut
+book	kitap
+born	doğmuş, doğum
+both	ikisi de
+box	kutu
+boy	erkek çocuk
+bread	ekmek
+break	kırılma
+Breakfast	kahvaltı
+bring	getirmek
+brother	erkek kardeş
+catch	yakalamak
+cause	sebep olmak
+cell	hücre
+center	merkez
+century	yüzyıl
+certainly	kesinlikle
+chair	sandalye
+challenge	meydan okuma
+chance	şans
+character	karakter
+charge	şarj etmek
+cheap	ucuz
+child	çocuk
+choose	seçmek
+church	kilise
+cigarette	sigara
+cinema	sinema
+citizen	vatandaş
+city	şehir
+computer	bilgisayar
+concern	ilgilendirmek
+condition	şart
+conference	konferans
+consider	dikkate almak, göz önüne almak
+crazy	çılgın, deli
+dad	baba
+dangerous	tehlikeli
+dark	karanlık, koyu
+date	tarih, randevu
+daughter	kız çocuk
+day	gün
+december	aralık
+delicious	lezzetli
+different	değişik
+few	az
+file	dosya
+film	film
+final	final, son
+fine	güzel, iyi
+first	ilk, öncelikle
+floor	zemin
+food	yiyecek
+for	nedeniyle
+foreign	yabancı
+forward	ileri
+friday	Cuma
+friend	arkadaş
+full	dolu, tam
+fun	eğlence
+funny	komik
+game	oyun
+gas	gaz
+general	genel
+gentleman	centilmen
+get permission	izin almak
+girl	kız çocuk
+god	tanrı
+good	iyi
+goverment	hükümet
+great	harika
+green	yeşik
+grey	gri
+half	yarım
+hand	el
+handbag	el çantası
+happy	mutlu
+hard	zor, sert
+healthy	sağlıklı
+heart	kalp, gönül
+help	yardım etmek
+here	burada
+high	yüksek yer
+holiday	tatil
+home	ev
+hospital	hastane
+kind	çeşit, nazik
+kitchen	mutfak
+lady	kadın, hanımefendi
+large	geniş, büyük
+late	geç
+least	az miktar
+lunch	öğle yemeği
+mail	posta
+main	ana, esas, başlıca
+man	adam
+manager	yönetici, müdür
+many	bir hayli, çok
+march	mart, marş
+market	pazarlama
+now	şimdi
+nowhere	hiçbir yerde
+number	sayı, rakam
+october	ekim
+off	den, dan, dışında
+office	büro, ofis
+official meeting	resmi toplantı
+often	sık sık
+on	üstünde, üzerinde
+once	bir zamanlar
+one	bir tane, tek
+only	yalnız, sadece
+opposite	zıt, karşı
+other	diğer, başka
+our	bizim
+out	dış
+outside	dışarı
+over	sona ermiş, üstünde
+paper	kağıt
+part	ayırmak, kısmen
+party	parti
+past	geçmiş
+pen	tükenmez kalem
+people	insan
+perfect	mükemmel, kusursuz
+person	kişi
+phone	telefon, telefon etmek
+picture	resim
+pink	pembe
+place	yer, mekan
+problem	sorun, problem
+programme	program, yayın
+quarter	çeyrek
+quick	hızlı, çabuk
+ready	hazır
+really	gerçekten
+red	kırmızı
+rel
+somebody	birisi
+someone	biri, birisi
+sometimes	bazen
+somewhere	bir yerde
+son	erkek çocuk, oğul
+summer	yaz
+sun	güneş
+sunday	pazar
+super	süper
+sure	kesin, emin
+surname	soyadı
+sweet	tatlı
+taxi	taksi
+tea	çay
+teacher	öğretme
+team	takım
+telephone	telefon
+television	televizyon
+than	göre
+that	şu, öteki
+their	onların
+thursday	Perşembe
+ticket	bilet, etiket
+time	zaman
+to	e doğru, göre
+today	bugün
+together	beraber
+tomorrow	yarın
+tonight	bu gece
+weak	zayıf, kuvvetsiz
+weather	hava, hava durumu
+wednesday	çarşamba
+week	hafta
+well	iyi, hoş, iyi durum
+what	ne
+whatever	her ne
+when	ne zaman
+whenever	dığında, diğinde
+where	nere, nerede
+while	iken
+yet	hala, henüz
+young	küçük, genç
+your	senin, sizin
+zero	sıfır

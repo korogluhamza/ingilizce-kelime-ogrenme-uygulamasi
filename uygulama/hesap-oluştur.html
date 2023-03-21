@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hesap Oluştur</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+</head>
+<body>
+    <div class="container">
+
+    <form action="index.html">
+
+      <h1>-Kişisel Bilgileriniz-</h1>
+
+      <label for="name">Adınız:<br>
+      <input type="text" id="name" name="name" required></label>
+      <label for="lastName">Soyadınız:<br>
+      <input type="text" id="lastName" name="lastName" required></label>
+      <label for="Email">E-Posta:<br>
+      <input type="email" id="email" name="email" required></label>
+      <label for="password">Şifre:<br>
+      <input type="password" id="password" name="password" required minlength="8"></label>
+      <label for="phoneNumber">Telefon:<br>
+      <input type="phoneNumber" id="phoneNumber" name="phoneNumber" required></label>
+      <input type="checkbox" id="terms" name="terms" required>
+      Kullanım Şartlarını Okudum ve Kabul Ediyorum.
+      <br>
+      <input type="checkbox" id="newsletter" name="newsletter">
+      Reklam ve yeniliklerden haberdar olmak istiyorum.
+      <br>
+      <button type="submit" class="btn btn-primary btn-lg btn-block">Başlayın</button>
+
+      </form>
+    </div>
+    
+    <style>
+    
+    body{
+        text-align: center;
+        background: url("arkaPlan6.png");
+        background-size: cover;
+        background-repeat: repeat;
+    }
+
+    #name {
+        width: 300px;
+        height: 40px;
+    }
+
+    #lastName {
+        width: 300px;
+        height: 40px;
+    }
+
+    #email {
+        width: 300px;
+        height: 40px;
+    }
+
+    #password {
+        width: 300px;
+        height: 40px;
+    }
+    #phoneNumber {
+        width: 300px;
+        height: 40px;
+    }
+
+    form {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        padding: 40px;
+    }
+
+    form label {
+        display: block;
+        margin-bottom: 30px;
+    }
+
+    .datetime-container {
+        position: fixed;
+        top: 0;
+        right: 0;
+        padding: 10px;
+    }
+
+    p {
+        color: white;
+    }
+
+    </style>
+
+     <div class="datetime-container">
+        <p id="datetime"></p>
+      </div>
+
+    <script>
+      function showDateTime() {
+        const now = new Date();
+        const dateTime = now.toLocaleString();
+        document.getElementById("datetime").innerHTML = dateTime;
+      }
+
+      setInterval(showDateTime, 1000);
+    </script>
+</body>
+</html>

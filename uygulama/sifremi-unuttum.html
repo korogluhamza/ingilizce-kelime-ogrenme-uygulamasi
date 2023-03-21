@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Şifre Sıfırlama</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+
+    <style>
+      body{
+    text-align:center;
+    background: url("arkaPlan6.png");
+    background-size: cover;
+    background-repeat: repeat;
+}
+
+.password{
+
+    width: 50%;
+    max-width: 350px;
+    padding: 15px;
+    margin: auto;
+    color: white;
+
+}
+
+.password .form-control{
+
+    position:relative;
+    height:auto;
+    padding:10px;
+    font-size:16px;
+    color: white;
+
+}
+
+.container {
+    width: 100%;
+    margin: auto;
+    height: 350px;
+    background-color: grey;
+}
+
+#inputnewPassword{
+
+margin-bottom:-1px;
+border-bottom-right-radius:0;
+border-bottom-left-radius:0;
+}
+
+#inputconfirmPassword{
+
+margin-bottom:10px;
+border-top-right-radius:0;
+border-top-left-radius:0;
+}
+
+#inputEmail:focus{
+z-index:5;
+}
+
+#newPassword
+{
+color: black;
+}  
+
+#confirmPassword
+{
+color: black;
+}
+
+p {
+color: white;
+}
+
+.datetime-container {
+position: fixed;
+top: 0;
+right: 0;
+padding: 10px;
+}
+
+    </style>
+
+
+</head>
+
+<body>
+
+    <div class="datetime-container">
+        <p id="datetime"></p>
+      </div>
+
+    <script>
+      function showDateTime() {
+        const now = new Date();
+        const dateTime = now.toLocaleString();
+        document.getElementById("datetime").innerHTML = dateTime;
+      }
+
+      setInterval(showDateTime, 1000);
+    </script>
+
+    <form class="password" action="index.html">
+        <label for="new-password">Yeni Şifre:</label>
+        <input type="password" id="newPassword" class="form-control" placeholder="Yeni Şifre" required minlength="8">
+        
+        <label for="confirm-password">Yeni Şifre(Tekrar):</label>
+        <input type="password" id="confirmPassword" class="form-control" placeholder="Yeni Şifre(Tekrar)" required>
+        <br>
+        <button type="submit" class="btn btn-primary btn-lg btn-block">Şifreyi Sıfırla</button>
+
+
+      </form>
+</body>
+</html>
