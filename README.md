@@ -1,1 +1,1 @@
-# -Ingilizce-Ogrenme-Uygulamasi-
+# kelime uygulaması
